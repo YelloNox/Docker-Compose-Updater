@@ -86,6 +86,11 @@ Yes, but I am looking for more manual control over my updates. Especially if the
 
 Most likely not. I am currently in school with limited time and will most likely spend it daddling new or more in-depth projects.
 
+
+### Why is there more Python than Shell? This is supposed to be Docker Scripts, yes?
+
+First, Docker Compose scripts. Get it right. Second,
+
 ## 🌟 Thanks
 
 -   [Remotely](https://github.com/immense/Remotely)
